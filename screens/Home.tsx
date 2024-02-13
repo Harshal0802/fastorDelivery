@@ -24,7 +24,6 @@ const Home = ({navigation}) => {
   //     },
   //   );
   //   const result = await resp.data;
-  //   console.log('result', result);
   // };
   // getRestaurantList();
   //   }, []);

@@ -13,7 +13,7 @@ const Stack = createNativeStackNavigator();
 function App(): React.JSX.Element {
   return (
     <NavigationContainer>
-      <Stack.Navigator initialRouteName="home">
+      <Stack.Navigator initialRouteName="verification">
         <Stack.Screen
           name="verification"
           component={Verification}
